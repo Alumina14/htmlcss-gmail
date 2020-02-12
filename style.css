@@ -1,0 +1,67 @@
+body{
+background-image: url("img/sfondo.jpeg")
+
+}
+
+h1{
+color: white;
+display: inline-block;
+position:absolute;
+padding-top: 15px;
+
+}
+.stile-blocchi{
+  width: 800px;
+  margin: auto;
+  height: 125px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+
+}
+
+#stile-logo{
+width: 15%;
+
+}
+#bordo-bianco{
+  border-bottom: 2px solid white;
+}
+.stile-div{
+background-color: lightgrey;
+border: 1px solid black;
+padding: 4px 4px 4px 4px;
+}
+.stile-p{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+
+}
+#stile-span{
+  font-size: 35px;
+}
+
+h2{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#sfondodiv{
+  border-radius: 50%;
+  background-color: #FFB100;
+  display: inline-block;
+  padding: 20px;
+  height: auto;
+}
+#stile-span2{
+  font-weight: bold;
+}
+
+#stile-span3{
+  font-weight: bold;
+  color: grey;
+}
+#spanbianco{
+  background-color: white;
+}
